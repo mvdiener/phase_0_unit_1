@@ -1,5 +1,7 @@
 ## 8. [Comparing Favorite Websites](8_technical_blog/readme.md) Reflection
 
-Blog url: <!-- Blog URL here (remove comment)  -->
+Blog url: http://mvdiener.github.io/unit1_projects/week1_technical_blog.html
 
 Reflect on the process of researching and writing a blog post. It doesn't have to be long. Did you enjoy this? Did you get comments or views? Did you find the blog helpful to your learning? Did you find it cumbersome? Which parts did you feel best about and which did you feel less certain about?
+
+If I'm being completely honest about this challenge: I hated it. Ok, hate is a strong word, I'll settle for "very strongly disliked". I've spent more time on this challenge than any other, simply because I'm not sure what I'm supposed to sit and write about. I've never been one for keeping journals, writing in a diary; my choice of major in college was even influcenced by minimal requirements for writing papers. I'd rather spend my time interacting with interesting things, and showing them to others, than spend the time to write down what I think. So I suppose I have never really understood the appeal for blogging, when I could instead be out doing, instead of writing. I'm not sure where the hang up is, or what it is about me that dislikes the writing so much. I spend hours looking at a blank page, getting frustrated because I haven't written anything yet, have an even harder time writing because I'm frustraed, and the cycle continues. I take breaks and come back, still no luck. Perhaps I'll put this one off for now, and inspiration will come tomorrow.
