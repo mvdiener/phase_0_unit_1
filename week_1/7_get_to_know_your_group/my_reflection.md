@@ -1,6 +1,6 @@
 ## 7. [Getting to know your group](7_get_to_know_your_group/readme.md)
 
-1. Copy your response to <a href="https://github.com/Devbootcamp/phase_0_unit_1/tree/master/week_1/6_Get_to_know_your_group" target="_blank"> Get to know your group</a> in this file.
+Copy the email you sent to your group in this file.
 
 Hey all!
 So it looks like the 5 of us are in an accountability group together. I believe we all had the same orientation meeting too, so that's cool! Here's a bit of info about, as per the instructions on this weeks challenge #7.
@@ -18,7 +18,7 @@ The last part of this challenge asks us to share our reflections with each other
 
 Anywho, nice to meet all of you, and I look forward to meeting in person in June.
 
-2. Take a moment to reflect on reading other people's responses regarding their fears about DBC. How did that make you feel? Did you feel better, worse, or something else all together? How has your experience this week influenced your feelings? All feelings are welcome and ok. Just take a moment to think about it and write it down. 
+Take a moment to reflect on reading other people's responses regarding their fears about DBC. How did that make you feel? Did you feel better, worse, or something else all together? How has your experience this week influenced your feelings? All feelings are welcome and ok. Just take a moment to think about it and write it down. 
 
 Well, I'm not entirely sure how we are supposed to complete this second part. The reflections where we talk about our feelings and fears of DBC doesn't happen until challenge 7 of next weeks work. Should we skip ahead and do that? Or come back to this reflection once that's done? Regardless of how that works, I'm excited to meet all of these awesome people in person this coming June.
 
