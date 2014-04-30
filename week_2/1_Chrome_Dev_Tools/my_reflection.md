@@ -1,7 +1,12 @@
 # U1.W2: Chrome Dev Tools Challenge Reflection
 
 * Describe the Document Object Model? What about it makes sense to you? What doesn't? What seems good and bad about it?
+It seems to me that the DOM is just the tool that takes your HTML and CSS, and is what turns it into a dynamic and interactive page. Otherwise all you have is a bunch of code, and it doesn't do anything besides sit there as a bunch of text. Sort of like having a bowl of cake mix: the mix (html+css) won't turn into anything cool until you put it in the oven (DOM). Maybe that's a bad analogy.
 * How did using Chrome Web Tools to look at your site and a wordpress.com site compare?
+My sight has about 40 lines of code, and wordpress has eleventy billion. Wordpress is full of scripts, javascript, meta tags (I'm not sure what these are yet), all kinds of things to make the website interesting and dynamic. I suppose my website isn't much more than a couple of links at this point.
 * Did you find Chrome Web Tools fun, helpful, or a pain to work with?
+I knew that the web tools existed, and I've actually used them in the past, but this was a much more informative and in-depth look at the tools. They are actually substantially more awesome than I had originally thought. I found it a bit difficult navigating the links between the html, css, and source. Mostly because I'm unfamiliar with the link locations, but I expect to be using this tool quite heavily in the future.
 * Did you have an "aha" moments or were any concepts solidified?
+Finding out that you can edit a page right then and there was so cool. Being able to look at the page's code and say "What if I do x, y and z?" is something I do in my head all the time. Now I can do this quite easily, and see the results of my changes instantly. Sooooo cool!
 * Did you find any resources on your own that helped you better understand a topic? If so, please list it.
+Didn't end up looking for other resources, but I did find the Code School videos pretty helpful. I did have to re-watch some of the sections a few times before a few of the concepts sunk in, but the info was presented in a way that felt pretty accessible to me. I also enjoyed the challenges at the end of each video, so I could practice what I just learned. As a kinesthetic and visual learner, this is precisely what I needed.
