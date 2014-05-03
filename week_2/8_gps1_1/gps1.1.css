@@ -1,1 +1,25 @@
 /* include your css here */
+
+        body{
+            background-color: black;
+        }
+        h2{
+            color: red;
+            font-weight: bold;
+        }
+        #intro, #main {
+            margin: auto;
+            width: 70%;
+            background-color: #201A1A;
+            padding: 10px;
+        }
+        #intro{
+            color: green;
+        }
+        #intro li, #main li{
+            font-style: italic;
+        }
+        #main{
+            color: purple;
+            margin-top: 5px;
+        }
