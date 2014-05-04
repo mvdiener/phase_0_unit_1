@@ -1,6 +1,8 @@
 # U1.W2: Thinking About Time Reflection
 
-* What is your biggest time management challenge with during Phase 0? 
-* How will you combat that? 
+* What is your biggest time management challenge with during Phase 0?
+Working a 40 hour week has been the largest challenge during Phase 0. Add in ~1.5 hours of commute time and I'm usually only left with about 4-5 hours to complete class work in the evenings.
 * What techniques will you try?
+I like the look of the "Make it small" technique and parts of the Pomodoro technique. Rather than viewing the overall goal of a challenge, and feeling overwhelmed because there's a lot to complete, I'll look at each step and start small, and eventually end up with a better result than if I had tried to tackle the whole thing. Additionally, I will try to break up my coding sessions more frequently, to allow myself to stop and get up, walk around, get a drink or bite to eat, and ultimately prevent myself from sitting in the same spot working for multiple hours.
 * What is your overall plan for Phase 0?
+Although an entire week's work is a bit daunting, I've been taking things one challenge at a time. I've scheduled myself to do one challenge per night during the work week, and the rest will be done on the weekend when I have more time. During the week, I've been able to complete every challenge so far within my 4-5 hour window. Some nights I manage to finish with time to spare, and I use this extra time to take a breath, relax, and mentally process what I've learned for the day. No need to try and cram in another challenge, that will only stress me out, and I probably won't absorb the material I just completed. It's worked out much better so far to pace through one challenge per day, and I'll continue to do this throughout phase 0.
